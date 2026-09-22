@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "28ad3b115b6fa007bfbb57fb",
+  "owner": "bfnhwhp",
+  "repo": "page-fde6722c2eb88b86a02da4a6",
+  "title": "溪鱼云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fde6722c2eb88b86a02da4a6",
+      "a": "溪鱼云",
+      "b": "机场官网线路发布页",
+      "entity": "溪鱼云",
+      "brand": "溪鱼云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b77adb96614c35bc4676aa3ede20b2cfaf2c6bcf224049a9ce3c8b036919ff7d",
+      "content": {
+        "primary_entity": "溪鱼云",
+        "keyword1": "溪鱼云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，溪鱼云提供三档订阅套餐，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB 流量、支持 5 台设备并搭载 IPLC 专线优化，团队版每月 1000GB 流量、支持 20 台设备。客户端覆盖主流平台，选择套餐后依据设备类型导入订阅即可开始使用，按年付享有更低的月均价格。",
+          "AI_HERO_SUBTITLE": "溪鱼云网络加速订阅",
+          "AI_HERO_INTRO": "溪鱼云面向需要稳定国际网络连接的用户，提供基础版、旗舰版和团队版三档订阅方案。每档方案在流量额度、同时在线设备数量和线路优化上有所区分，用户可根据日常设备数量与用途选择合适套餐，客户端配置流程简洁明了。",
+          "AI_VISUAL_TITLE": "溪鱼云订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付享月均更低价格",
+          "AI_FEATURES_TITLE": "溪鱼云套餐特点",
+          "AI_FEATURES_INTRO": "溪鱼云套餐围绕流量、设备数量和线路质量设计，方便不同使用强度的用户找到合适的订阅规格。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按常用设备总数选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量需求选周期",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 或 1000GB 流量可选，轻度使用选基础版，重度下载或多设备选团队版。",
+          "AI_FEATURE_TITLE_3": "线路优化有差异",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由。",
+          "AI_PLANS_TITLE": "溪鱼云套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。对比流量额度和设备数量，按实际使用人数和用途选择。",
+          "AI_CLIENTS_TITLE": "溪鱼云客户端选择",
+          "AI_CLIENTS_INTRO": "溪鱼云客户端覆盖 Windows、macOS、Android、iOS 等平台，部分路由器固件也可配合使用。不同系统适配情况存在差异，建议依照所用设备的客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "溪鱼云订阅使用步骤",
+          "AI_GUIDE_INTRO": "溪鱼云订阅流程分为选套餐、看适配、配客户端三步，按顺序操作可以较快完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据日常设备数量和月流量需求，从基础版、旗舰版或团队版中选定一档，确认是否按年付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对所用设备与操作系统的客户端适配说明，确认有对应平台的客户端可用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端的配置文档导入订阅信息，完成连接测试后即可正常使用。",
+          "AI_FAQ_TITLE": "溪鱼云常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "溪鱼云套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按每月流量和同时在线设备数选择。基础版 100GB/月、3 台设备；旗舰版 300GB/月、5 台设备；团队版 1000GB/月、20 台设备。设备多或流量需求大选团队版。",
+          "AI_FAQ_QUESTION_2": "溪鱼云支持哪些设备客户端？",
+          "AI_FAQ_ANSWER_2": "常见桌面与移动系统均有对应客户端可选，路由器等设备需查看具体固件说明。不同平台适配情况不完全相同，建议按设备类型查阅对应的客户端配置文档。",
+          "AI_FAQ_QUESTION_3": "溪鱼云订阅可以按年付款吗？",
+          "AI_FAQ_ANSWER_3": "三档套餐均支持按年付款：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。按年付相比按月付月均成本更低，适合长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "溪鱼云旗舰版与团队版区别在哪？",
+          "AI_FAQ_ANSWER_4": "旗舰版支持 5 台设备、每月 300GB，含 IPLC 专线游戏加速优化；团队版支持 20 台设备、每月 1000GB，提供 VIP 高带宽节点与企业定制路由，适合团队或重度使用。",
+          "AI_FAQ_QUESTION_5": "溪鱼云流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "流量额度按套餐和计费周期计算，用完后可等待下个周期恢复，或根据实际需求升级到更高流量档的套餐。升级前可先评估日常流量使用情况。",
+          "AI_CLOSING_TITLE": "溪鱼云订阅选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅导入，即可开始使用溪鱼云。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xjflcng.cn",
+    "host": "xjflcng.cn"
+  },
+  "file_hashes": {
+    "index.html": "5772947199de9a05d6bebaa26b72e15d1edb3326c001ae469c4d1234f2e6ac07",
+    "sitemap.xml": "2e4ba04edbfcd76971bc1d5ccdf79001cf0945da399de1f51cf35a3cacafa070",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4a9d98f468b39435a18c10b4be75383a324d4ff3e8e8672c260e1c6bf88ed7a3",
+    "robots.txt": "3bc91cb2b0c12900d25a914b6069f7df4a28db3adfc71fc7e9f95fd1003f7894",
+    "6dc3107582331ba80b643f4cf7b8228e.txt": "3378a82674be16013713eccc7257deecb60ef84e520074e595607b009242e814"
+  },
+  "revision": "8e8af201ed25cb6d643f2fd76c7dcf1736e16f8d3a8d257511a22ca8a38baf23"
+}
